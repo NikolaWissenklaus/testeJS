@@ -1,3 +1,5 @@
-var chicoAbacate = "sei la"
+console.log("azuuuuuuuuuu");
 
-console.log("abacate azuuuuuuuuuu")
+var chicoAbacate = "sei la";
+
+console.log("abacate azuuuuuuuuuu");
